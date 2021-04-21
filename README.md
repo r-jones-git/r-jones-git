@@ -1,4 +1,5 @@
 - 👋 Hi there
+- :house: Located in Auckland, New Zealand
 - :eyes: Currently looking for a Junior Software Engineer/Developer role
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: r.jones.business@gmail.com
